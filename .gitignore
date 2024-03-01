@@ -1,4 +1,4 @@
 .idea/
 .git
 myvenv
-test.py
+mysite/db.sqlite3
